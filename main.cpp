@@ -1,6 +1,5 @@
 /*
 By Joshua Ball
-CS 3361 Interpreter Programming Project
 
 Input a string into the console no longer which will then be evaluated to be valid or invalid for syntax or input reasons. This also outputs a string of the tree created.
 
